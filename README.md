@@ -4,7 +4,7 @@
 <br>
 
 ## Sobre o projeto
-A idéia do projeto é unir pessoas que tenham vontade de ajudar umas as outras de forma monetária, ou melhor dizendo, as ONGs.
+Be The Hero é uma aplicação da 11º Semana Omnistack da RocketSeat, essa idéia do projeto consiste em unir pessoas que tenham vontade de ajudar umas as outras de forma monetária, ou melhor dizendo, as ONGs.
 <br><br>
 ![projeto](https://user-images.githubusercontent.com/56271517/77834268-3ded2580-7122-11ea-8b53-658cd339da17.png)
 <br><br>
